@@ -3,15 +3,16 @@
  * نظام إدارة المقاهي
  */
 
-// إعدادات Firebase - مشروع coffee
+// إعدادات Firebase - مشروع dashbord
 const firebaseConfig = {
-    apiKey: "AIzaSyDXUkh29hZMGGp25xNp3p6iBOaV9wRzVcw",
-    authDomain: "coffee-82de8.firebaseapp.com",
-    databaseURL: "https://coffee-82de8-default-rtdb.firebaseio.com",
-    projectId: "coffee-82de8",
-    storageBucket: "coffee-82de8.firebasestorage.app",
-    messagingSenderId: "171535536202",
-    appId: "1:171535536202:web:883c7caf73e26079dad6b3"
+    apiKey: "AIzaSyBnBV5NJKy34uUYseMxGjpDRlkclKHiqmU",
+    authDomain: "dashbord-fcb7b.firebaseapp.com",
+    databaseURL: "https://dashbord-fcb7b-default-rtdb.firebaseio.com",
+    projectId: "dashbord-fcb7b",
+    storageBucket: "dashbord-fcb7b.firebasestorage.app",
+    messagingSenderId: "31514864344",
+    appId: "1:31514864344:web:00ef93b07bcf88ec6245ad",
+    measurementId: "G-C1Y2NWR8DN"
 };
 
 // تهيئة Firebase
